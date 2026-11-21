@@ -1,19 +1,21 @@
-# 🧩 Orientación a Objetos 1 (OO1) - UNLP
+# Orientación a Objetos I
 
-Repositorio personal con material de estudio, ejercicios y recursos complementarios de la materia **Orientación a Objetos 1**, Facultad de Informática, UNLP.
+Ejercicios resueltos en Java y material de estudio de Orientación a Objetos I (Facultad de Informática, UNLP).
 
-## 📚 Contenido
+## Estructura
 
-* **Material teórico:** resúmenes, apuntes y bibliografía recomendada.  
-* **Prácticas resueltas:** ejercicios y trabajos prácticos desarrollados a lo largo de la cursada.  
-* **Material adicional:** ejemplos, guías UML, patrones y recursos complementarios para reforzar conceptos.  
+- `teoria/`: material de las clases teóricas.
+- `practica/`: un proyecto por ejercicio (balanza electrónica, red de alumbrado, job scheduler, cliente de correo, sistema de pedidos, entre otros) y explicaciones de práctica.
+- `material-adicional/`: recursos complementarios.
 
-## 🧠 Temas principales
+## Temas
 
-- Paradigma de Orientación a Objetos  
-- Clases, objetos y encapsulamiento  
-- Herencia y polimorfismo  
-- Delegación de responsabilidades  
-- Diseño con UML  
-- Principios SOLID y buenas prácticas  
-- Tests unitarios y calidad de software  
+- Objetos, clases y encapsulamiento
+- Herencia, polimorfismo y delegación
+- Colecciones
+- Diseño con UML
+- Tests de unidad con JUnit
+
+---
+
+Las resoluciones son propias y pueden tener errores. El material de cátedra (diapositivas, enunciados y parciales) pertenece a sus docentes y está incluido solo como referencia de estudio.
